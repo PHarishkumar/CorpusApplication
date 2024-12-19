@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CorpusApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="help_center">Help Center</string>
+    <string name="call">Call</string>
+    <string name="email">E-mail</string>
+    <string name="corpus">Corpus</string>
+    <string name="txt_login">Login</string>
+    <string name="logout">Logout ?</string>
+    <string name="txt_desh">DESH</string>
+    <string name="loading">Loading......</string>
+    <string name="need_help">Need Help? \nTalk to us!</string>
+</resources>
